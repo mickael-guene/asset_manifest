@@ -4,13 +4,14 @@
 
   <default revision="master" remote="github"/>
 
-  <project name="mickael-guene/binutils" path="scratch/binutils" revision="master"/>
-  <project name="mickael-guene/gcc" path="scratch/gcc" revision="master"/>
+  <project name="mickael-guene/binutils" path="scratch/binutils" revision="master-asset"/>
+  <project name="mickael-guene/gcc" path="scratch/gcc" revision="master-asset"/>
   <project name="mickael-guene/gmp" path="scratch/gmp" revision="gmp-6.0.0a"/>
   <project name="mickael-guene/mpc" path="scratch/mpc" revision="mpc-1.0.2"/>
   <project name="mickael-guene/mpfr" path="scratch/mpfr" revision="mpfr-3.1.2"/>
   <project name="mickael-guene/newlib" path="scratch/newlib" revision="newlib-2.2.0-1"/>
   <project name="mickael-guene/asset_build" path="scratch/build" revision="master"/>
   <project name="mickael-guene/asset_test" path="scratch/test" revision="master"/>
+  <project name="mickael-guene/exe2obj" path="scratch/exe2obj" revision="master"/>
 
 </manifest>
