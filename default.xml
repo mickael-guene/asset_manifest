@@ -4,7 +4,7 @@
   
   <default remote="github" revision="master"/>
   
-  <project name="mickael-guene/asset_build" path="scratch/build" revision="398c34924b8de6bd5081995c7ad03b7173e7e70a" upstream="master"/>
+  <project name="mickael-guene/asset_build" path="scratch/build" revision="a4faae43d6abb2299b1af77b3b3913f108b8b4eb" upstream="master"/>
   <project name="mickael-guene/asset_test" path="scratch/test" revision="c7ae8a6d9cdf931e6cea0150b6c393ff45bbdf9b" upstream="master"/>
   <project name="mickael-guene/binutils" path="scratch/binutils" revision="b28dc6812112aa81abd7ec9a4b880a33204ecfc0" upstream="master-asset"/>
   <project name="mickael-guene/exe2obj" path="scratch/exe2obj" revision="ade2b8dadfd072a07a2f21e3aa5383f04d9a2ded" upstream="master"/>
