@@ -68,7 +68,7 @@ full testsuite run in 37.561644438 seconds
 For that just untar in a directory the tarball you have generated during compilation.
 ```
 ~/pcrop $ mkdir install_test
-~/pcrop $ tar -C install_test -xf out/toolset-20160614-063208-aeaab522-armv7-m.tgz
+~/pcrop $ tar -C install_test -xf out/asset-toolset-20160614-063208-aeaab522-armv7-m.tgz
 ```
 * setup path and test your toolset is alive.
 ```
