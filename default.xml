@@ -5,10 +5,10 @@
   <default remote="github" revision="master"/>
   
   <project name="mickael-guene/asset_build" path="scratch/build" revision="2238c1afcbb7f1f87eecf4119d500a0d352df153" upstream="master"/>
-  <project name="mickael-guene/asset_test" path="scratch/test" revision="b3faeb99a0110abd50d36ddd88b8a11051303ee8" upstream="master"/>
-  <project name="mickael-guene/binutils" path="scratch/binutils" revision="50d26020e6ef1e6010b6cf29ff0c1bf49cf865f5" upstream="master-asset"/>
-  <project name="mickael-guene/exe2obj" path="scratch/exe2obj" revision="73f5067279a4ebf2e64bb8b8f19471b6fb4785c4" upstream="master"/>
-  <project name="mickael-guene/gcc" path="scratch/gcc" revision="cc2b80e4521a250821ef56a1cd2cd88db7e38dbf" upstream="master-asset"/>
+  <project name="mickael-guene/asset_test" path="scratch/test" revision="2adf16f6a742dbfc1d8ee019630213082cd9e8f6" upstream="master"/>
+  <project name="mickael-guene/binutils" path="scratch/binutils" revision="b24271b2103dec224ef8c0a0c4e32ef09f1d4908" upstream="master-asset"/>
+  <project name="mickael-guene/exe2obj" path="scratch/exe2obj" revision="159d151f8f4fd3881672f525c81803ee5c05be81" upstream="master"/>
+  <project name="mickael-guene/gcc" path="scratch/gcc" revision="e1d7ca3dc47095a20c8df691324bd1ddb94cbc47" upstream="master-asset"/>
   <project name="mickael-guene/gmp" path="scratch/gmp" revision="c51be377208b2c963cdce2eff4566cede5ccf1f2" upstream="gmp-6.0.0a"/>
   <project name="mickael-guene/mpc" path="scratch/mpc" revision="34052f5f589cf72c59456b88f88f708419bfa68e" upstream="mpc-1.0.2"/>
   <project name="mickael-guene/mpfr" path="scratch/mpfr" revision="d3ab20390a04efa0288e7f4ee3c2725b139e957c" upstream="mpfr-3.1.2"/>
